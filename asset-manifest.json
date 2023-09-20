@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-context-003/static/css/main.8c11d4ee.css",
+    "main.js": "/react-context-003/static/js/main.b2a5a0f0.js",
+    "static/media/image-removebg-preview (2).png": "/react-context-003/static/media/image-removebg-preview (2).fa53487ec48adfb4099c.png",
+    "index.html": "/react-context-003/index.html",
+    "main.8c11d4ee.css.map": "/react-context-003/static/css/main.8c11d4ee.css.map",
+    "main.b2a5a0f0.js.map": "/react-context-003/static/js/main.b2a5a0f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c11d4ee.css",
+    "static/js/main.b2a5a0f0.js"
+  ]
+}
